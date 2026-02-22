@@ -10,6 +10,7 @@
 #include <iostream>
 #include <utility>
 #include <type_traits>
+#include <cstdint>
 
 namespace trie
 {
